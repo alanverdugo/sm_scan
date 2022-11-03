@@ -8,6 +8,8 @@ It would be much more user-friendly to request the secret name (which the user s
 
 This tool does exactly that. You simply provide the secret name (and authentication values) and you get its secret data back.
 
+The tool was designed to have as little dependencies as possible with the aim of making it faster, reliable, compatible, secure and having the smallest footprint possible.
+
 Pull Requests are welcome. If you want to contribute, take a look at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 Open an issue to report bugs or to suggest enhancements.

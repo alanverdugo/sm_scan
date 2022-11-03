@@ -13,7 +13,7 @@
 #   ncurses
 #
 # Author:
-#   Alan Verdugo (alan.verdugo.munoz1@ibm.com)
+#   Alan Verdugo
 #
 # Return codes:
 #   0 - Completed successfully.
